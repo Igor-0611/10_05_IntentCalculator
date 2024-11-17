@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">10_05_IntentCalculator</string>
+    <string name="result_hint">Результат</string>
+    <string name="btn_calc_name">Калькулятор</string>
+    <string name="title">Калькулятор</string>
+    <string name="result_tv_name">Результат</string>
+    <string name="hint_text_et">Введите число</string>
+    <string name="btn_plus">+</string>
+    <string name="btn_minus">-</string>
+    <string name="btn_multiply">*</string>
+    <string name="btn_divide">/</string>
+    <string name="btn_reset">Reset</string>
+    <string name="btn_transfer">Передать данные</string>
+</resources>
